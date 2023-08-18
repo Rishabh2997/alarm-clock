@@ -1,12 +1,18 @@
-# alarm-clock
+🪧 Demo :- https://akshay0326.github.io/Alarm-Clock/
 
-This project is an alarm based on a clock. Alarms can be set for any desired time. The most crucial aspect of this project is that it utilizes the local storage provided by your browser, thus if you unintentionally close a tab or the entire browser window,
+---
 
-Your configured alarm is still on the window. The page is still there when you return to it.
+About the Project :-
 
- Additionally, it recalls the time that you last set the alarm.
+🔴 This project is an clocked based alarm project
+🔴 You can set alarm at any desired time.
+🔴 The most important thing about this project is it makes use of local storage of your browser that means if you accidentally close the tab or entire
+window, the alarm you set is not gone. When you revisit the page you find it same as you left
+🔴 It also remembers at what time did you set alarm last time
 
- Installation :-
+---
+
+📐 Installation :-
 
 Nothing crazy just download the zip and run LIVE_SERVER.
 
